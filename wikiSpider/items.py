@@ -5,6 +5,8 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/items.html
 
+#test180402
+
 from scrapy import Item, Field
 class Article(Item):
     # define the fields for your item here like:
